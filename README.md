@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @davidsandovalg
+- 👀 I am interested in becoming a full stack developer of the different stacks that exist.
+- 🌱 I am continually learning new technologies to expand the current range of languages ​​that I can use.
+- 💞️ I am looking to collaborate on all kinds of projects regardless of the framework used.
+- 📫 How to contact me: davidsandoval0621@gmail.com - dag621@hotmail.es - https://www.linkedin.com/in/davidfernandosandovalgomez
